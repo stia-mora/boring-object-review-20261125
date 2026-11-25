@@ -8,7 +8,7 @@ An entry for the [make.fun competition "The Most Boring Object, Reviewed in One 
 
 The review:
 
-> The paperclip's entire career is holding your tax return together, until someone straightens it into a SIM ejector and throws it away for doing its job too well.
+> The paperclip's only promotion is being straightened into a SIM ejector, then thrown away for doing the one job it was never hired for.
 
 ## How to run
 
